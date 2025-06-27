@@ -19,4 +19,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Muskan2403/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Muskan2403/Competitive-Programming/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Muskan2403/Competitive-Programming/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
