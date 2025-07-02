@@ -22,9 +22,22 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Muskan2403/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Muskan2403/Competitive-Programming/tree/master/0155-min-stack) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Muskan2403/Competitive-Programming/tree/master/0155-min-stack) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Muskan2403/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Muskan2403/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Muskan2403/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
