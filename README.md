@@ -6,6 +6,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Muskan2403/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Muskan2403/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
+| [1130-last-stone-weight-ii](https://github.com/Muskan2403/Competitive-Programming/tree/master/1130-last-stone-weight-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,8 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Muskan2403/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Muskan2403/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1130-last-stone-weight-ii](https://github.com/Muskan2403/Competitive-Programming/tree/master/1130-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
