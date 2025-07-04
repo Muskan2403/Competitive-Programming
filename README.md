@@ -48,5 +48,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Muskan2403/Competitive-Programming/tree/master/0070-climbing-stairs) |
 | [1130-last-stone-weight-ii](https://github.com/Muskan2403/Competitive-Programming/tree/master/1130-last-stone-weight-ii) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Muskan2403/Competitive-Programming/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Muskan2403/Competitive-Programming/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
