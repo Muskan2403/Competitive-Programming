@@ -54,6 +54,7 @@
 | [0070-climbing-stairs](https://github.com/Muskan2403/Competitive-Programming/tree/master/0070-climbing-stairs) |
 | [0518-coin-change-ii](https://github.com/Muskan2403/Competitive-Programming/tree/master/0518-coin-change-ii) |
 | [1130-last-stone-weight-ii](https://github.com/Muskan2403/Competitive-Programming/tree/master/1130-last-stone-weight-ii) |
+| [1170-shortest-common-supersequence](https://github.com/Muskan2403/Competitive-Programming/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Muskan2403/Competitive-Programming/tree/master/1250-longest-common-subsequence) |
 ## Math
 |  |
@@ -70,5 +71,6 @@
 ## String
 |  |
 | ------- |
+| [1170-shortest-common-supersequence](https://github.com/Muskan2403/Competitive-Programming/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Muskan2403/Competitive-Programming/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
