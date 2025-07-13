@@ -11,6 +11,7 @@
 | [0518-coin-change-ii](https://github.com/Muskan2403/Competitive-Programming/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Muskan2403/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [1130-last-stone-weight-ii](https://github.com/Muskan2403/Competitive-Programming/tree/master/1130-last-stone-weight-ii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Muskan2403/Competitive-Programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Muskan2403/Competitive-Programming/tree/master/0045-jump-game-ii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Muskan2403/Competitive-Programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
@@ -81,4 +83,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Muskan2403/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Muskan2403/Competitive-Programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Sorting
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Muskan2403/Competitive-Programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
