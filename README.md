@@ -46,6 +46,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Muskan2403/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Muskan2403/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
+| [0207-course-schedule](https://github.com/Muskan2403/Competitive-Programming/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -91,4 +92,16 @@
 |  |
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Muskan2403/Competitive-Programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Muskan2403/Competitive-Programming/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Muskan2403/Competitive-Programming/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Muskan2403/Competitive-Programming/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
