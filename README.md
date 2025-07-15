@@ -18,6 +18,7 @@
 | [0001-two-sum](https://github.com/Muskan2403/Competitive-Programming/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Muskan2403/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Muskan2403/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Muskan2403/Competitive-Programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [1130-last-stone-weight-ii](https://github.com/Muskan2403/Competitive-Programming/tree/master/1130-last-stone-weight-ii) |
 | [1170-shortest-common-supersequence](https://github.com/Muskan2403/Competitive-Programming/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Muskan2403/Competitive-Programming/tree/master/1250-longest-common-subsequence) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Muskan2403/Competitive-Programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Muskan2403/Competitive-Programming/tree/master/0070-climbing-stairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Muskan2403/Competitive-Programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Greedy
 |  |
 | ------- |
@@ -103,9 +106,15 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Muskan2403/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Muskan2403/Competitive-Programming/tree/master/0210-course-schedule-ii) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Muskan2403/Competitive-Programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Muskan2403/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Muskan2403/Competitive-Programming/tree/master/0210-course-schedule-ii) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Muskan2403/Competitive-Programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Counting
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Muskan2403/Competitive-Programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
