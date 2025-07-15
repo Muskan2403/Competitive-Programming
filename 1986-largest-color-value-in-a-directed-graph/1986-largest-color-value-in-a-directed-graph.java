@@ -7,8 +7,10 @@ class Solution {
         for (int i = 0; i < n; i++) adj.add(new ArrayList<>());
 
         for (int[] e : edges) {
-            adj.get(e[0]).add(e[1]);
-            degree[e[1]]++;
+            int from = e[0];
+            int to = e[1];
+            adj.get(from).add(to);
+            degree[to]++;
         }
 
         int[][] dp = new int[n][26];
@@ -19,7 +21,7 @@ class Solution {
         }
 
         int visited = 0;
-        int maxVal = 0;
+        int maxVal = 1;
 
         while (!q.isEmpty()) {
             int u = q.poll();
