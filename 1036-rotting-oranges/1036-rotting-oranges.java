@@ -1,62 +1,54 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        int n = grid.length;
-        int m = grid[0].length;
-        Queue<Pair> q = new LinkedList<>();
-
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]==2){
-                    q.add(new Pair(i,j));
+        Queue<int[]> q = new LinkedList<>();
+        int fresh = 0;
+        for(int i=0; i<grid.length; i++) {
+            for(int j=0;j<grid[0].length; j++) {
+                if(grid[i][j] == 1) fresh++;
+                if(grid[i][j] == 2) {
+                    q.offer(new int[]{i,j});
                 }
             }
         }
 
-        int []ax = {0, 0, 1, -1};
-        int []ay = {1, -1, 0, 0};
+        if(fresh == 0) return 0;
+        int minutes = 0;
+        while(!q.isEmpty()) {
 
-        int ans =0;
+            int size = q.size();
 
-        while(!q.isEmpty()){
-            int size =q.size();
-            int temp =0;
-            while(size>0){
-                Pair rv = q.poll();
-                int x = rv.x;
-                int y = rv.y;
-
-                for(int i=0;i<4;i++){
-                    int newx = x+ax[i];
-                    int newy = y+ay[i];
-
-                    if(newx>=0 && newx<n && newy>=0 && newy<m && 
-                    grid[newx][newy]==1){
-                        grid[newx][newy] =2;
-                        q.add(new Pair(newx, newy));
-                        temp =1;
-                    }
+            for(int i=0; i<size; i++) {
+                int[] point = q.poll();
+                int x = point[0];
+                int y = point[1];
+                if(x + 1 < grid.length && grid[x+1][y] == 1) {
+                    grid[x+1][y] = 2;
+                    q.offer(new int[]{x+1, y});
+                    fresh--;
                 }
-                size--;
+
+                if(x - 1 >= 0 && grid[x-1][y] == 1) {
+                    grid[x - 1][y] = 2;
+                    q.offer(new int[]{x-1, y});
+                    fresh--;
+                }
+
+                if(y + 1 < grid[0].length && grid[x][y + 1] == 1) {
+                    grid[x][y + 1] = 2;
+                    q.offer(new int[]{x, y+1});
+                    fresh--;
+                }
+
+                if(y - 1 >= 0 && grid[x][y-1] == 1) {
+                    grid[x][y-1] = 2;
+                    q.offer(new int[]{x, y-1});
+                    fresh--;
+                }
             }
-            ans+= temp;
+            minutes++;
         }
 
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]==1) return -1;
-            }
-        }
-
-        return ans;
+        return fresh > 0 ? -1 : minutes - 1;
     }
 
-    class Pair{
-        int x;
-        int y;
-
-        Pair(int x, int y){
-            this.x = x;
-            this.y = y;
-        }
-    }
 }
