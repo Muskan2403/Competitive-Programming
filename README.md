@@ -10,6 +10,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Muskan2403/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/Muskan2403/Competitive-Programming/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Muskan2403/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
+| [1036-rotting-oranges](https://github.com/Muskan2403/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [1130-last-stone-weight-ii](https://github.com/Muskan2403/Competitive-Programming/tree/master/1130-last-stone-weight-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Muskan2403/Competitive-Programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
@@ -101,6 +102,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Muskan2403/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Muskan2403/Competitive-Programming/tree/master/0210-course-schedule-ii) |
+| [1036-rotting-oranges](https://github.com/Muskan2403/Competitive-Programming/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Muskan2403/Competitive-Programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Muskan2403/Competitive-Programming/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
