@@ -12,6 +12,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Muskan2403/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [1036-rotting-oranges](https://github.com/Muskan2403/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [1130-last-stone-weight-ii](https://github.com/Muskan2403/Competitive-Programming/tree/master/1130-last-stone-weight-ii) |
+| [1753-path-with-minimum-effort](https://github.com/Muskan2403/Competitive-Programming/tree/master/1753-path-with-minimum-effort) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Muskan2403/Competitive-Programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Muskan2403/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
+| [1753-path-with-minimum-effort](https://github.com/Muskan2403/Competitive-Programming/tree/master/1753-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Muskan2403/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/Muskan2403/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Muskan2403/Competitive-Programming/tree/master/0210-course-schedule-ii) |
+| [1753-path-with-minimum-effort](https://github.com/Muskan2403/Competitive-Programming/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -89,6 +92,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Muskan2403/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
+| [1753-path-with-minimum-effort](https://github.com/Muskan2403/Competitive-Programming/tree/master/1753-path-with-minimum-effort) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +107,7 @@
 | [0207-course-schedule](https://github.com/Muskan2403/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Muskan2403/Competitive-Programming/tree/master/0210-course-schedule-ii) |
 | [1036-rotting-oranges](https://github.com/Muskan2403/Competitive-Programming/tree/master/1036-rotting-oranges) |
+| [1753-path-with-minimum-effort](https://github.com/Muskan2403/Competitive-Programming/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
@@ -123,4 +128,9 @@
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Muskan2403/Competitive-Programming/tree/master/1036-rotting-oranges) |
+| [1753-path-with-minimum-effort](https://github.com/Muskan2403/Competitive-Programming/tree/master/1753-path-with-minimum-effort) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/Muskan2403/Competitive-Programming/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
